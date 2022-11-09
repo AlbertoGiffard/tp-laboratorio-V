@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="form_name">Pokemon</string>
+    <string name="form_type">Normal</string>
+    <string name="hint_description">Descripcion</string>
+    <string name="btn_save_form">Guardar</string>
+    <string name="btn_new">Encontre uno!</string>
+    <string name="pokemon_name">Pokemon</string>
+    <string name="pokemon_type">Normal</string>
+    <string name="btn_in">Comenzar</string>
+    <string name="item_help">Ayuda</string>
+    <string name="app_new_poke_name">Por Encontrar</string>
+    <string name="help_title">AYUDA</string>
+    <string name="help_name">Nombre:\n</string>
+    <string name="help_content_name">Nombre del pokemon, primer valor.\n</string>
+    <string name="help_type">Tipo:\n</string>
+    <string name="help_content_type">Los pokemons tienen un tipo, segundo valor.\n</string>
+    <string name="help_see_pokemon">Ver detalle del pokemon:\n</string>
+    <string name="help_content_see_pokemon">Solo presionalo.\n</string>
+    <string name="help_btn">Boton encontre uno:\n</string>
+    <string name="help_content_btn">Cuando encuentres un nuevo pokemon, haz click en el boton para agregarlo.\n</string>
+</resources>

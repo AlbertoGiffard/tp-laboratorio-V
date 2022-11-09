@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- always siempre se muestra
+    never nunca
+    ifroom si entra
+    withtext aparece el icono y el texto si entra
+    app:showAsAction="always"
+    -->
+    <item
+        android:id="@+id/itemHelp"
+        android:title="@string/item_help"
+        android:icon="@android:drawable/ic_menu_help"/>
+</menu>

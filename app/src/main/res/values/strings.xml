@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="form_name">Pokemon</string>
+    <string name="form_type">Normal</string>
+    <string name="hint_description">Description</string>
+    <string name="btn_save_form">Save</string>
+    <string name="btn_new">Find one!</string>
+    <string name="pokemon_name">Pokemon</string>
+    <string name="pokemon_type">Normal</string>
+    <string name="btn_in">Start</string>
+    <string name="item_help">Help</string>
+    <string name="app_new_poke_name">To Find</string>
+    <string name="help_title">HELP</string>
+    <string name="help_name">Name:\n</string>
+    <string name="help_content_name">This is the name of pokemon, first value.\n</string>
+    <string name="help_type">Type:\n</string>
+    <string name="help_content_type">Pokemon have types, second value.\n</string>
+    <string name="help_see_pokemon">See Pokemon:\n</string>
+    <string name="help_content_see_pokemon">Just click on it.\n</string>
+    <string name="help_btn">Find one button:\n</string>
+    <string name="help_content_btn">When you fin a new pokemon, click on button to added.\n</string>
+</resources>
