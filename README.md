@@ -4,14 +4,14 @@ Trabajo Practico para la materia de Laboratorio de Programación V
 
 Este proyecto está basado en el clásico Pokedex del universo de Pokemon. 
 
-![Alt text](app\src\main\res\drawable\home.png)
+![Alt text](main\res\drawable\home.png)
 
 Encontraremos un listado de Pokemons ya encontrados y un listado más de los que nos falta por encontrar.
 
-![Alt text](app\src\main\res\drawable\menu.png)
+![Alt text](src\main\res\drawable\menu.png)
 
 Y finalmente encontraremos el detalle de cada uno de los pokemons, donde podremos agregarle una descripción y conocerlo mas.
 
-![Alt text](app\src\main\res\drawable\detail.png)
+![Alt text](res\drawable\detail.png)
 
 Esperamos que sea de tu agrado, perfecto para tu dispositivo Android.
