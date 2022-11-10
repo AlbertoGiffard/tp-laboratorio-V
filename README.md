@@ -1,5 +1,5 @@
-# tp-laboratorio-V
-**Pokedex**
+# TP-Laboratorio-V
+# Pokedex
 Trabajo Practico para la materia de Laboratorio de Programación V
 
 Este proyecto está basado en el clásico Pokedex del universo de Pokemon. 
